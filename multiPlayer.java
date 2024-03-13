@@ -1,7 +1,7 @@
 class multiPlayer {
     public void myMultiPlayer() {
-        printBoard pBoard  = new printBoard();
+        printBoard pBoard = new printBoard();
         pBoard.printBrd();
-        
+
     }
 }
